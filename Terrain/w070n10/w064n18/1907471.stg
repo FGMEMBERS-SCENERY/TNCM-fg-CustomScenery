@@ -1,0 +1,5 @@
+OBJECT_BASE 1907471.btg
+OBJECT TQPF.btg
+OBJECT_SHARED Models/Airport/beacon.xml -63.054455 18.206032 33.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -63.060505 18.206141 35.3 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -63.048428 18.204826 28.2 0.00
